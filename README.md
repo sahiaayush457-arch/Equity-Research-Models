@@ -20,17 +20,6 @@ Sell-side financial models, valuation exercises, and equity research reports dev
 ## Skills Demonstrated
 
 - Discounted Cash Flow (DCF) Valuation
-- Weighted Average Cost of Capital (WACC)
-- CAPM Cost of Equity
-- Three-Statement Financial Modeling
-- Comparable Company Analysis (CCA)
-- Regression Forecasting
-- Value at Risk (VaR)
-- Monte Carlo Simulation
-- Ratio Analysis
-- Common-Size Financial Statements
-- Equity Research
-- Financial Statement Analysis
 - Investment Recommendation (Buy/Hold/Sell)
 - Microsoft Excel
 - Corporate Valuation
@@ -38,12 +27,7 @@ Sell-side financial models, valuation exercises, and equity research reports dev
 ## Tools Used
 
 - Microsoft Excel
-- Bloomberg Methodologies
-- CAPM
-- DCF Model
-- Comparable Company Analysis
-- Regression Analysis
-- Monte Carlo Simulation
+
 
 ## Contact
 
