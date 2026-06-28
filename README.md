@@ -1,17 +1,52 @@
-Equity Research Models
-Aayush sahi  | MBA Fintech, PIBM | sahiaayush457@gmail.com
+# Equity Research Models
 
-Sell-side financial models built during internship at Profit idea  , Pune .
+**Aayush Sahi | MBA Fintech, PIBM | sahiaayush457@gmail.com**
 
-Files in this Repository
-File	Description
-Tata Valuation.xlsx	DCF Valuation — Tata Steel (7-yr projection, WACC 17.7%, 10% CAGR)
-WACC.xlsx	WACC via CAPM — Beta R²=0.261, Cost of Equity 18.4%, post-tax Kd 6.6%
-TAMO FS Analysis.xlsx	3-Statement Model — Tata Motors (10-yr, EBITDA swing analysis)
-Relative Valuation.xlsx	Comparable Company Analysis — 10 pharma peers, EV/EBITDA & P/E
-ITC Company Profile excel.xlsx	Regression Forecasting — ITC revenue model, ROE 21.9% to 49.6%
-VAR.xlsx	VaR & Monte Carlo Simulation — Tata Elxsi, 95% & 99% CI tail risk
-Valuation Practise.xlsx	Practice valuation workbook — ratio analysis & common size
-Company Valuation.pdf	Equity research report with buy/sell/hold recommendations
-Skills Demonstrated
-DCF Valuation
+Sell-side financial models, valuation exercises, and equity research reports developed as part of academic projects and finance internship assignments.
+
+## Files in this Repository
+
+| **File** | **Description** |
+|----------|-----------------|
+| `Tata Valuation.xlsx` | DCF Valuation — Tata Steel (7-yr projection, WACC 17.7%, 10% CAGR) |
+| `WACC.xlsx` | WACC via CAPM — Beta R²=0.261, Cost of Equity 18.4%, post-tax Kd 6.6% |
+| `TAMO FS Analysis.xlsx` | 3-Statement Model — Tata Motors (10-yr, EBITDA swing analysis) |
+| `Relative Valuation.xlsx` | Comparable Company Analysis — 10 pharma peers, EV/EBITDA & P/E |
+| `ITC Company Profile excel.xlsx` | Regression Forecasting — ITC revenue model, ROE 21.9% to 49.6% |
+| `VAR.xlsx` | VaR & Monte Carlo Simulation — Tata Elxsi, 95% & 99% CI tail risk |
+| `Valuation Practise.xlsx` | Practice valuation workbook — ratio analysis & common size |
+| `Company Valuation.pdf` | Equity research report with Buy/Sell/Hold recommendations (≤350 words) |
+
+## Skills Demonstrated
+
+- Discounted Cash Flow (DCF) Valuation
+- Weighted Average Cost of Capital (WACC)
+- CAPM Cost of Equity
+- Three-Statement Financial Modeling
+- Comparable Company Analysis (CCA)
+- Regression Forecasting
+- Value at Risk (VaR)
+- Monte Carlo Simulation
+- Ratio Analysis
+- Common-Size Financial Statements
+- Equity Research
+- Financial Statement Analysis
+- Investment Recommendation (Buy/Hold/Sell)
+- Microsoft Excel
+- Corporate Valuation
+
+## Tools Used
+
+- Microsoft Excel
+- Bloomberg Methodologies
+- CAPM
+- DCF Model
+- Comparable Company Analysis
+- Regression Analysis
+- Monte Carlo Simulation
+
+## Contact
+
+**Aayush Sahi**
+
+📧 **sahiaayush457@gmail.com**
